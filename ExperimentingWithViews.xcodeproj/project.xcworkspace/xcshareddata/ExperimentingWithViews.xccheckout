@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3261B82A-29A5-4446-B6FD-8A5DA90AA4E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExperimentingWithViews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52B13590C197FDD5F7FA743E416C4218D0B766D9</key>
+		<string>https://github.com/johnceniza/ExperimentingWithViews.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExperimentingWithViews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52B13590C197FDD5F7FA743E416C4218D0B766D9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johnceniza/ExperimentingWithViews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52B13590C197FDD5F7FA743E416C4218D0B766D9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52B13590C197FDD5F7FA743E416C4218D0B766D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExperimentingWithViews</string>
+		</dict>
+	</array>
+</dict>
+</plist>
